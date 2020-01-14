@@ -19,11 +19,10 @@ p.titulo{
 summary {
     font-size: 4rem;
   }
-  
-span.blanco {
-    background-color: white;
-  }
-  
+
 span.violeta {
     background-color: hsl(325, 100%, 90%);
+  }
+span.blanco {
+    background-color: white;
   }
